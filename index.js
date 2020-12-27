@@ -1,10 +1,10 @@
 
-const XBOT = '『AMPIBI bot』'; 
-const instagram = 'https://bit.ly/2I4St2Y'; 
-const nomer = 'Wa.me/+6282334297175'; 
+const XBOT = '『Regyna.Bot』'; 
+const instagram = 'https://Instagram.com/@regyna.Gans'; 
+const nomer = '0881-0260-65014'; 
 const aktif = 'Tergantung kuota'; 
-const groupwhatsapp = 'https://bit.ly/2VJLtfn'; 
-const youtube = 'https://bit.ly/36Bp6ie'; 
+const groupwhatsapp = 'https://chat.whatsapp.com/EPh2V5DtSD2Jcdbs9LybR8; 
+const youtube = 'Kyroad Gaming'; 
 
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
