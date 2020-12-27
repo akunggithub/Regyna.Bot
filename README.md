@@ -1,1 +1,0 @@
-# Regyna.Bot
