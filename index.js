@@ -3,7 +3,7 @@ const XBOT = '『Regyna.Bot』';
 const instagram = 'https://Instagram.com/@regyna.Gans'; 
 const nomer = '0881-0260-65014'; 
 const aktif = 'Tergantung kuota'; 
-const groupwhatsapp = 'https://chat.whatsapp.com/EPh2V5DtSD2Jcdbs9LybR8; 
+const groupwhatsapp = 'https://chat.whatsapp.com/EPh2V5DtSD2Jcdbs9LybR8'; 
 const youtube = 'Kyroad Gaming'; 
 
 const qrcode = require("qrcode-terminal");
